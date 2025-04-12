@@ -1,5 +1,5 @@
 
-# Movie Success Prediction Using IMDb India Dataset
+# Movie rating Prediction Using IMDb India Dataset
 
 This project uses machine learning techniques to predict the success of Indian movies based on various features from the IMDb Movies India dataset.
 
